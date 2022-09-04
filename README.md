@@ -11,7 +11,9 @@
   ```
 - Install commmon packages used for front-end react
   developments by running:
-  ` cd client && npm install `
+  ```
+  cd client && npm install && cd ..
+  ```
 
 ## 2. Setup .env file
 
